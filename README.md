@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 ## 1-Installation and execution
 
-### To run this codes Python 3.x or Anaconda should be installed.
+### To run this code Python 3.x or Anaconda should be installed.
 
 ___________________________________________________________________________________________________________________________________________
 ## 2-	Project Description
