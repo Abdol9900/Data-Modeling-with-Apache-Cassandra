@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 ## 3- Results
 
-#### The main findings of the code can be found at the post available [here](https://github.com/Abdol9900/Data-modeling-with-Postgres/blob/master/etl.ipynb).
+#### The main findings of the code can be found at the post available [here](https://github.com/Abdol9900/Data-Modeling-with-Apache-Cassandra-udacity/blob/master/Project_1B_%20Project_Template.ipynb).
 
 ___________________________________________________________________________________________________________________________________________
 
