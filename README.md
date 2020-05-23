@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 ### In this project a database for songs will be created. Pandas python library will be using to extract data from source transformed and then loaded into the database. There is one datasets is used in ETL process which called event_data.
 
-<img src="https://github.com/Abdol9900/Data-modeling-with-Postgres/blob/master/Photo.JPG" alt="Italian Trulli" height="800" width="800">
+<img src="https://github.com/Abdol9900/Data-Modeling-with-Apache-Cassandra-udacity/blob/master/image_event_datafile_new.jpg" alt="Italian Trulli" height="800" width="800">
 _______________________________________________________________________________________________________________________________________
 
 ## 3- Results
