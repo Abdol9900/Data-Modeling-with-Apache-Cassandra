@@ -1,4 +1,4 @@
-# Project: Data Modeling with Apache Cassandra udacity
+# Project: Data Modeling with Apache Cassandra
 
 ### Table of Contents
 #### 1-	Installation and execution
